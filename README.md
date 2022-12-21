@@ -1,2 +1,2 @@
 # Advanced_Patterns
-I had solved advanced patters by using java language.
+In these repo,I had solved advanced patters using java.
